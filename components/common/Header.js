@@ -24,7 +24,7 @@ const transitionStyles = {
 const mobileMenuLinks = [
   {
     name: 'Home',
-    link: '/'
+    link: '/collection'
   },
   {
     name: 'Shop',
